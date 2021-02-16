@@ -38,7 +38,7 @@
 <div align=center><img width="200" height="200" src="https://gitee.com/Sunert/ProxyConfig/raw/master/QuantumultX/Rules/Images/Complimentcode.jpeg"/></div>
 <br>
 
----
+---fds
 
 ### 特别感谢：
 
